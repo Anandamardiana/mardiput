@@ -1,0 +1,74 @@
+[
+    {
+        "id" : 1,
+        "img" : "/gb1.jpg",
+        "judul" : "Drama Korea 'Jadul' yang Tak Tergantikan, Bikin Nostalgia",
+        "date" : "Sabtu, 18 Jul 2020 11:40 WIB",
+        "link" : "../../artikel/1",
+        "isi" : "Drama Korea terus menghiasi pangsa pasar film Indonesia dengan judul-judul dan pemain baru yang lebih segar. Namun ada kalanya bosan mengikuti alur cerita baru dan ingin menyaksikan kembali drama Korea zaman dulu (jadul). Tidak bisa dimungkiri, drama Korea lawas masih melekat erat dalam ingatan para penggemar, seakan tak tergantikan meski sudah banyak drama baru yang bermunculan pada 10 bahkan nyaris 20 tahun belakangan ini."
+    },
+    {
+        "id" : 2,
+        "img" : "/gb2.jpg",
+        "judul" : "Sengatan Politik Kerabat",
+        "date" : "Rabu, 15 Jul 2020 00:00 WIB",
+        "link" : "../../artikel/2",
+        "isi" : "Pemilihan Kepala Daerah (Pilkada) di 270 wilayah di Indonesia yang tetap digelar pada Tahun ini, unik. Bukan lagi soal perdebatan perlu atau tidaknya menggelar Pilkada di tengah Pandemi Covid-19 yang masih mengemuka, tapi soal siapa yang muncul naik gelanggang. Bahkan diperkirakan, Pilkada Tahun ini, akan menjadi ajang Pilkada dengan kandidat yang memiliki hubungan kerabat dengan Pejabat Negara terbanyak sepanjang sejarah."
+    },
+    {
+        "id" : 3,
+        "img" : "/gb3.jpg",
+        "judul" : "Jelaskan Regenerasi Politik yang Sehat, Refly Harun Sarankan Gibran Jadi Wakil Achmad Purnomo",
+        "date" : "Sabtu, 18 Jul 2020 11:40 WIB",
+        "link" : "../../artikel/3",
+        "isi" : "Pakar Hukum Tata Negara Refly Harun memberikan sorotan terkait fenomena politik di Kota Solo menjelang Pilkada serentak 2020.Pencalonan putra sulung Presiden Joko Widodo (Jokowi), Gibran Rakabuming Raka menjadi fenomena politik yang banyak dibicarakan oleh banyak pihak.Selain karena anak dari orang nomor satu di Indonesia, proses pencalonan Gibran dari PDIP juga banyak dinilai kurang tepat. Artikel ini telah tayang di Tribunwow.com dengan judul."
+    },
+    {
+        "id" : 4,
+        "img" : "/gb4.jpg",
+        "judul" : "Rekomendasi Anime Anak Sekolahan Genre Romantis dan Komedi",
+        "date" : "Sabtu, 18 Jul 2020 16:03 WIB",
+        "link" : "../../artikel/4",
+        "isi" : "Ada banyak anime dengan latar belakang tokoh-tokohnya sebagai anak sekolahan. Genre yang diusung pun beragam, mulai dari romansa, aksi, komedi, atau gabungan ketiganya atau bahkan yang lain. Tidak hanya tokoh-tokoh yang diceritakan masih seorang pelajar, setting cerita juga kerap terjadi di sekolah. Tentunya secara garis besar kisah anime ini mengambil realita kehidupan anak sekolah yang beranjak dewasa atau Anak Baru Gede (ABG). Diantaranya : Shigatsu wa kimi no uso, Kimi no nawa, Anohana."
+    },
+    {
+        "id" : 5,
+        "img" : "/gb5.jpg",
+        "judul" : "Tak Etis Presiden Bahas Politik Praktis dengan Wakil Wali Kota Solo di Istana",
+        "date" : "Sabtu, 18 Jul 2020 14:00 WIB",
+        "link" : "../../artikel/5",
+        "isi" : "Pengamat politik dari Universitas Paramadina, Ahmad Khoirul Umam menilai, tak etis Presiden Joko Widodo yang memanggil Wakil Wali Kota Solo Achmad Purnomo ke Istana Kepresidenan untuk membahas politik praktis. Hal itu disampaikan Umam menanggapi pertemuan Jokowi dengan Purnomo di Istana Kepresidenan, Jakarta, Kamis (16/7/2020)."
+    },
+    {
+        "id" : 6,
+        "img" : "/gb6.jpg",
+        "judul" : "Aishwarya Rai Dinyatakan Sembuh dari Covid-19",
+        "date" : "Sabtu, 18 Jul 2020 15:41 WIB",
+        "link" : "../../artikel/6",
+        "isi" : "Megabintang Bollywood Aishwarya Rai dinyatakan telah sembuh dari Covid-19 dan telah diperbolehkan meninggalkan Rumah Sakit Nanavati. Suaminya, Abhishek Bachchan membenarkan kabar bahwa hasil tes terbaru Aishawarya dinyatakan negatif sehingga ia dibolehkan meninggalkan rumah sakit di Mumbai pada Senin (27/7). Aishwarya dan anaknya, Aaradya yang berusia delapan tahun dirawat di rumah sakit pada 17 Juli lalu setelah menjalani karantina mandiri selama lima hari. Mereka mendapat perawat di rumah sakit yang sama tempat Abhishek dan sang ayah mertua, Amitabh Bachan dirawat karena Covid-19."
+    },
+    {
+        "id" : 7,
+        "img" : "/gb7.jpg",
+        "judul" : "Dari Turki, Menhan Prabowo Lanjut Kunjungan Kerja India",
+        "date" : "Sabtu, 18 Jul 2020 15:41 WIB",
+        "link" : "../../artikel/6",
+        "isi" : "Menteri Pertahanan Prabowo Subianto melakukan kunjungan ke India sejak Minggu (26/7) lalu. Kunjungan ini dilakukan Prabowo dalam rangka memperkuat kerja sama antara India dengan Indonesia setelah sebelumnya melawat ke Turki dalam rangka kerja sama alutsista. Prabowo dalam kunjungan itu bertemu dengan Menteri Pertahanan India, Raksha Mantri Shri di Blok Selatan, New Delhi. Kata Dahnil, Prabowo juga banyak melakukan pembicaraan seputar pertahanan dengan para petinggi di India."
+    },
+    {
+        "id" : 8,
+        "img" : "/gb8.jpg",
+        "judul" : "PA 212: Corona Tembus 100 Ribu, Rakyat Harus Berjuang Sendiri",
+        "date" : "Sabtu, 18 Jul 2020 15:41 WIB",
+        "link" : "../../artikel/8",
+        "isi" : "Angka 100 ribu kasus Covid-19 akhirnya dicapai Indonesia pada Senin (27/7). Delapan provinsi jadi sentra penyebaran Virus Corona. Masyarakat pun dinilai mesti berjuang sendiri dalam pandemi mengingat Pemerintah yang kurang kreatif mengatasinya. Ketua Umum Persaudaraan Alumni atau PA 212, Slamet Maarif menilai Indonesia kini sudah menjadi negara dengan status darurat Virus Corona di Asia, karena sudah melampaui kasus di China. Ia menyatakan pemerintahan Presiden Joko Widodo sudah gagal total dalam menangani Corona. Rakyat pun mesti berjuang sendiri."
+    },
+    {
+        "id" : 9,
+        "img" : "/gb9.jpg",
+        "judul" : "Corona Tembus 100 Ribu, Zona Merah Merambah 53 Daerah",
+        "date" : "Sabtu, 18 Jul 2020 15:41 WIB",
+        "link" : "../../artikel/9",
+        "isi" : "Zona risiko tinggi atau zona merah virus corona melonjak drastis seiring kasus positif di Indonesia yang telah menembus angka 100.000 kasus. Satuan Tugas Covid-19 berdasarkan analisis mingguan mengungkap zona merah di Indonesia saat ini berjumlah 53 titik yang tersebar di kabupaten dan kota. Angka itu meningkat signifikan dari pekan lalu yang tercatat hanya sebanyak 35 titik di kabupaten dan kota. Menurut Wiku, persentase kenaikan zona merah kabupaten/kota sebesar 10,31 persen."
+    }
+]

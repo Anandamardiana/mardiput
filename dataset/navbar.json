@@ -1,0 +1,22 @@
+[
+    {
+        "id" : 1,
+        "text" : "Home",
+        "link" : "/home"
+    },
+    {
+        "id" : 2,
+        "text" : "Hiburan",
+        "link" : "/menu/hiburan"
+    },
+    {
+        "id" : 3,
+        "text" : "Politik",
+        "link" : "/menu/politik"
+    },
+    {
+        "id" : 4,
+        "text" : "Terbaru",
+        "link" : "/menu/terbaru"
+    }
+]

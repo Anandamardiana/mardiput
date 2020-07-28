@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "img" : "/gb1.jpg",
+        "judul" : "Drama Korea 'Jadul' yang Tak Tergantikan, Bikin Nostalgia",
+        "date" : "Sabtu, 18 Jul 2020 11:40 WIB",
+        "link" : "../../artikel/1",
+        "isi" : "Drama Korea terus menghiasi pangsa pasar film Indonesia dengan judul-judul dan pemain baru yang lebih segar. Namun ada kalanya bosan mengikuti alur cerita baru dan ingin menyaksikan kembali drama Korea zaman dulu (jadul). Tidak bisa dimungkiri, drama Korea lawas masih melekat erat dalam ingatan para penggemar, seakan tak tergantikan meski sudah banyak drama baru yang bermunculan pada 10 bahkan nyaris 20 tahun belakangan ini."
+    },
+    {
+        "id" : 4,
+        "img" : "/gb4.jpg",
+        "judul" : "Rekomendasi Anime Anak Sekolahan Genre Romantis dan Komedi",
+        "date" : "Sabtu, 18 Jul 2020 16:03 WIB",
+        "link" : "../../artikel/4",
+        "isi" : "Ada banyak anime dengan latar belakang tokoh-tokohnya sebagai anak sekolahan. Genre yang diusung pun beragam, mulai dari romansa, aksi, komedi, atau gabungan ketiganya atau bahkan yang lain. Tidak hanya tokoh-tokoh yang diceritakan masih seorang pelajar, setting cerita juga kerap terjadi di sekolah. Tentunya secara garis besar kisah anime ini mengambil realita kehidupan anak sekolah yang beranjak dewasa atau Anak Baru Gede (ABG). Diantaranya : Shigatsu wa kimi no uso, Kimi no nawa, Anohana."
+    },
+    {
+        "id" : 6,
+        "img" : "/gb6.jpg",
+        "judul" : "Aishwarya Rai Dinyatakan Sembuh dari Covid-19",
+        "date" : "Sabtu, 18 Jul 2020 15:41 WIB",
+        "link" : "../../artikel/6",
+        "isi" : "Megabintang Bollywood Aishwarya Rai dinyatakan telah sembuh dari Covid-19 dan telah diperbolehkan meninggalkan Rumah Sakit Nanavati. Suaminya, Abhishek Bachchan membenarkan kabar bahwa hasil tes terbaru Aishawarya dinyatakan negatif sehingga ia dibolehkan meninggalkan rumah sakit di Mumbai pada Senin (27/7). Aishwarya dan anaknya, Aaradya yang berusia delapan tahun dirawat di rumah sakit pada 17 Juli lalu setelah menjalani karantina mandiri selama lima hari. Mereka mendapat perawat di rumah sakit yang sama tempat Abhishek dan sang ayah mertua, Amitabh Bachan dirawat karena Covid-19."
+    }
+]
